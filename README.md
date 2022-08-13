@@ -8,6 +8,7 @@
 </p>
 
 ## About Laravel
+ In this Project I created Sanctum API and login & Signup methods and connected with external server by Barear token to get products from Salla Store
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
