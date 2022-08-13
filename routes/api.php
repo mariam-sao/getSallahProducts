@@ -32,7 +32,7 @@ curl_setopt_array($curl, [
   CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
   CURLOPT_CUSTOMREQUEST => "GET",
   CURLOPT_HTTPHEADER => [
-    "Authorization: Bearer YyFkpLt8n2cr7KXZjCExDTbwB_3p2RYeweG6NSgE6MU.ISw6FTitwcdfeChxA9OejBS-q6EAcg4DoR9ABr7sc0w",
+    "Authorization: Bearer Token Here",
     "Content-Type: application/json"
   ],
 ]);
