@@ -1,4 +1,4 @@
-<h1> My Name i Mariam Welcome in My github account
+<h1> My Name is Mariam Welcome in My github account
 <br>
 In this Project I created Sanctum API and login & Signup methods and connected with external server by Barear token to get products from Salla Store
 </h1>
